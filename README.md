@@ -29,9 +29,6 @@ Timothy John F. Motos
 
 3. Honey Badger - The Honey Badger is an integrally-suppressed weapon at stock and has a base damage of 34 at close range and 22 at range.
 
-
-
-
 ![image](https://github.com/Norixample/Norixample.github.io/assets/150984593/0fbbd627-c5ff-4e64-b4a4-e96a2268e689)
 
 4. HK416 - The HK416 is average for its class. Although it has a four-shot kill (4SK) up close and a 5SK at the end of its damage drop-off, its damage values are high enough that one headshot will reduce the shots to kill (STK) requirements by one at any range.
