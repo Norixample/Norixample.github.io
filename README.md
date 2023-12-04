@@ -8,7 +8,9 @@ Timothy John F. Motos
 # My favorite (and most used) guns in Phantom Forces
 
 
-![image](https://github.com/Norixample/Norixample.github.io/assets/150984593/6eecb51e-d945-48fc-8d74-2d4fa310be81)
+![image](https://github.com/Norixample/Norixample.github.io/assets/150984593/4f3fd2bf-3128-4692-9a7b-f90bf0020531)
+
+
 
 
 
@@ -32,4 +34,6 @@ Timothy John F. Motos
 
 ![image](https://github.com/Norixample/Norixample.github.io/assets/150984593/0fbbd627-c5ff-4e64-b4a4-e96a2268e689)
 
+4. HK416 - The HK416 is average for its class. Although it has a four-shot kill (4SK) up close and a 5SK at the end of its damage drop-off, its damage values are high enough that one headshot will reduce the shots to kill (STK) requirements by one at any range.
 
+![](https://static.wikia.nocookie.net/roblox-phantom-forces/images/c/c3/HK416_angled.png/revision/latest/scale-to-width-down/1200?cb=20190514190513)
